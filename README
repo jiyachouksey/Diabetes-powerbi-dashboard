@@ -1,0 +1,66 @@
+🩺 Diabetes Data Analysis | Power BI Dashboard
+📌 Project Overview
+This project presents an interactive Power BI dashboard built using the Pima Indians Diabetes dataset to derive actionable insights on diabetes prevalence and associated health metrics.
+
+🎯 Dashboard Features
+✔️ KPIs:
+
+Total Patients
+
+Percentage of Diabetic Patients
+
+Percentage of Non-Diabetic Patients
+
+Average Age of Patients
+
+✔️ Donut & Pie Charts:
+
+Diabetic vs Non-Diabetic Distribution
+
+✔️ Gauge Chart:
+
+Overall Diabetes Prevalence (%)
+
+✔️ Clustered Column Charts:
+
+Average Glucose Levels by Diabetes Status
+
+Average BMI by Diabetes Status
+
+Average Age by Diabetes Status
+
+✔️ Scatter Plot:
+
+BMI vs Glucose Scatter Plot by Diabetes Status
+
+💻 Tools Used
+Power BI Desktop
+
+Dataset: Pima Indians Diabetes dataset
+
+🔍 Dataset Details
+Rows: 768
+
+Columns: 9
+
+Target variable: Outcome (0 = Non-Diabetic, 1 = Diabetic)
+
+🔗 Dataset Source:
+UCI Machine Learning Repository – Pima Indians Diabetes Dataset
+
+💡 Key Learnings
+✅ Designed professional dashboards for healthcare data
+✅ Enhanced Power BI visualisation and storytelling skills
+✅ Practiced KPI creation and advanced visual formatting for impactful insights
+
+🔗 Related Projects
+Diabetes Data Analysis & Logistic Regression (Python)
+
+🙌 Feedback & Suggestions
+I am always looking to improve. Please feel free to share your feedback or suggestions to enhance my dashboard design further.
+
+📬 Contact
+📧 jiyachouksey225@gmail.com
+💼 https://www.linkedin.com/in/jiya-chouksey-4938a023b/
+
+⭐ If you find this dashboard useful, please star this repository.
